@@ -1,0 +1,11 @@
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore the virtual environment directory
+venv/
+
+# Ignore .env file
+.env
+
+# Ignore JSON files
+*.json
